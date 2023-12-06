@@ -1,0 +1,10 @@
+.fondo{
+    background-image: url(../IMG/fondoventanausuarios2.webp);
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    height: 40rem;
+}
+.aaaa{
+    color: white;
+}
